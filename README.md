@@ -11,6 +11,14 @@
 - 💡 Passionate about AI, Cloud Computing, Open Source & Automation
 - 🌱 Currently learning DevOps, Kubernetes and System Design
 
+## 🎯 Current Focus
+
+- 🚀 Building AI-powered applications
+- ☁️ Mastering Google Cloud Platform (GCP)
+- 🧠 Learning DevOps & Kubernetes
+- 📺 Creating tutorials on Cloud Skills Matrix
+- 🌍 Contributing to Open Source Projects
+
 💻 Passionate about AI, Cloud Computing, Open Source, and Software Development.
 
 - 🔭 Currently working on AI & Cloud Projects
