@@ -1,6 +1,6 @@
-# Hi 👋, I'm Aniket Kumar Singh
+<h1 align="center">Hi 👋, I'm Aniket Kumar Singh</h1>
 
-## 🚀 AI & Cloud Engineer
+<h3 align="center">🚀 AI & Cloud Engineer | Creator of Cloud Skills Matrix</h3>
 
 💻 Passionate about AI, Cloud Computing, Open Source, and Software Development.
 
