@@ -106,10 +106,19 @@ https://www.youtube.com/@CloudSkillsMatrix
 
 ## 🌐 Connect With Me
 
-- 📺 YouTube: https://www.youtube.com/@CloudSkillsMatrix
-- 💼 LinkedIn: https://www.linkedin.com/in/aniket-kumar-singh-a9656b209/
-- 🏆 Credly: https://www.credly.com/users/aniket-kumar-singh.a82020d1
+<p align="center">
+<a href="https://www.youtube.com/@CloudSkillsMatrix">
+<img src="https://img.shields.io/badge/YouTube-Cloud%20Skills%20Matrix-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
 
+<a href="https://www.linkedin.com/in/aniket-kumar-singh-a9656b209/">
+<img src="https://img.shields.io/badge/LinkedIn-Aniket%20Kumar%20Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.credly.com/users/aniket-kumar-singh.a82020d1">
+<img src="https://img.shields.io/badge/Credly-View%20Badges-orange?style=for-the-badge&logo=credly&logoColor=white"/>
+</a>
+</p>
 ---
 
 ⭐ **Thanks for visiting my profile!**
