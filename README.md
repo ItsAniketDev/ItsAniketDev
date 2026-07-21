@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋, I'm Aniket Kumar Singh
 
-<!--
-**ItsAniketDev/ItsAniketDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI & Cloud Engineer
 
-Here are some ideas to get you started:
+💻 Passionate about AI, Cloud Computing, Open Source, and Software Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently working on AI & Cloud Projects
+- 🌱 Learning DevOps, Kubernetes & System Design
+- ☁️ Google Cloud Enthusiast
+- 📺 Creator of Cloud Skills Matrix
+- 💬 Ask me about Python, React, FastAPI & Google Cloud
+- 📍 Delhi, India
+
+## 🌐 Connect with me
+
+- 📺 YouTube: https://www.youtube.com/@CloudSkillsMatrix
+- 💼 LinkedIn: https://www.linkedin.com/in/aniket-kumar-singh-a9656b209/
+
+---
+
+⭐ Thanks for visiting my profile!
