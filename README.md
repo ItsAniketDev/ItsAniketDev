@@ -2,6 +2,15 @@
 
 <h3 align="center">🚀 AI & Cloud Engineer | Creator of Cloud Skills Matrix</h3>
 
+## 👨‍💻 About Me
+
+- 🎓 B.Tech Graduate in Artificial Intelligence
+- ☁️ Google Cloud Enthusiast
+- 🚀 AI & Cloud Engineer
+- 📺 Creator of Cloud Skills Matrix
+- 💡 Passionate about AI, Cloud Computing, Open Source & Automation
+- 🌱 Currently learning DevOps, Kubernetes and System Design
+
 💻 Passionate about AI, Cloud Computing, Open Source, and Software Development.
 
 - 🔭 Currently working on AI & Cloud Projects
