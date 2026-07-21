@@ -19,6 +19,22 @@
 - 📺 Creating tutorials on Cloud Skills Matrix
 - 🌍 Contributing to Open Source Projects
 
+## 🚀 Featured Projects (Coming Soon)
+
+I'm currently working on and will be publishing these projects soon:
+
+### 🤖 AI-Driven Quantum-Safe IoT Security Framework
+AI-powered post-quantum cryptography framework for IoT devices.
+
+### ☁️ Google Cloud Projects
+Hands-on cloud projects, labs, and real-world deployments.
+
+### 🌐 Smart Campus System
+AI-powered smart campus management and automation platform.
+
+### 💻 Full-Stack Web Applications
+Modern applications built using React, FastAPI, and Python.
+
 💻 Passionate about AI, Cloud Computing, Open Source, and Software Development.
 
 - 🔭 Currently working on AI & Cloud Projects
