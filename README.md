@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/csm-logo.png" alt="Cloud Skills Matrix" width="220"/>
+</p>
 <h1 align="center">Hi 👋, I'm Aniket Kumar Singh</h1>
 
 <h3 align="center">🚀 AI & Cloud Engineer | Creator of Cloud Skills Matrix</h3>
