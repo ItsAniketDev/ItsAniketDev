@@ -82,6 +82,14 @@ https://www.credly.com/users/aniket-kumar-singh.a82020d1
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ItsAniketDev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" />
+</p>
+
+---
+
 ## 🚀 Featured Projects (Coming Soon)
 
 ### 🤖 AI-Driven Quantum-Safe IoT Security Framework
