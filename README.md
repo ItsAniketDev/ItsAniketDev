@@ -70,6 +70,16 @@ https://www.credly.com/users/aniket-kumar-singh.a82020d1
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAniketDev&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ItsAniketDev&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ItsAniketDev&theme=tokyo-night&hide_border=true" />
+</p>
+
 ---
 
 ## 🚀 Featured Projects (Coming Soon)
@@ -122,6 +132,7 @@ https://www.youtube.com/@CloudSkillsMatrix
 <img src="https://img.shields.io/badge/Credly-View%20Badges-orange?style=for-the-badge&logo=credly&logoColor=white"/>
 </a>
 </p>
+
 ---
 
 ⭐ **Thanks for visiting my profile!**
