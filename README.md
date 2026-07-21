@@ -48,6 +48,18 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ItsAniketDev&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAniketDev&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
+
+## 📺 Featured YouTube Channel
+
+I'm the creator of **Cloud Skills Matrix**, where I share:
+
+- ☁️ Google Cloud Tutorials
+- 🤖 AI & Machine Learning
+- 💻 Programming Projects
+- 🚀 Career Guidance
+- 📚 Hands-on Labs & Open Source
+
+🔗 **YouTube:** https://www.youtube.com/@CloudSkillsMatrix
 ---
 
 ⭐ Thanks for visiting my profile!
