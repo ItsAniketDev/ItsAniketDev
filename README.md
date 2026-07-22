@@ -65,9 +65,14 @@ https://www.credly.com/users/aniket-kumar-singh.a82020d1
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ItsAniketDev&show_icons=true&theme=tokyonight"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItsAniketDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsAniketDev&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ItsAniketDev&layout=compact&theme=tokyonight"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ItsAniketDev&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ## 📈 Contribution Graph
 
